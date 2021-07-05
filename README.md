@@ -5,4 +5,5 @@
 
 #### [高级动画教程ActionScript](https://github.com/sanzhixiong1986/bookpdf/blob/main/高级动画教程ActionScript(jb51.net).pdf)
 
-#### 深度探索C++对象模型
+#### [深度探索C++对象模型](https://github.com/sanzhixiong1986/bookpdf/blob/main/深度探索C%2B%2B对象模型.pdf)
+
